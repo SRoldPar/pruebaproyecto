@@ -7,6 +7,8 @@ public class PrimeraClase {
 		System.out.println("Hola soy Susana");
 		System.out.println("Hola soy Alicia");
 		System.out.println("Nuevo cambio de Susana");
+		System.out.println("Nuevo cambio de Alicia");
+		
 	}
 
 }
